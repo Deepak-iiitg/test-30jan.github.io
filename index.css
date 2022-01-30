@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    background-color: aqua;
+    text-align: center;
+}
+input[type="text"]{
+    width:220px;
+    border-radius: 5px;
+}
